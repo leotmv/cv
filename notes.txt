@@ -1,0 +1,5 @@
+<input type = "text"> <- input ordinary data;
+<input type = "submit"> <- button;
+<input type = "file"> <- choose file field;
+<input type = "date"> <- calendar;
+<input type = "range"> <-just a rolling field
